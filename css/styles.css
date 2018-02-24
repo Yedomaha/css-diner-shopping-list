@@ -1,0 +1,76 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Trebuchet, Arial, sans-serif;
+}
+
+.wrapper {
+	background: #3B3F45;
+	height: 100%;
+}
+
+
+.header {
+	height: 115px;
+	background-color: #4A4F56;
+    overflow: hidden;
+}
+
+.header h1, .header p {
+	text-align: center;
+	color: #E57E7F;
+}
+
+.check {
+	margin-left: 22%;
+	margin-top: 25px;
+}
+
+.check p {
+	margin: 0;
+	padding: 0;
+	background: #88839E;
+	width: 800px;
+	height: 50px;
+	color: #ffffff;
+}
+
+.t1 {
+	font-size: 110%;
+	margin-left: 10px;
+}
+
+.t2 {
+	font-size: 70%
+}
+
+.input {
+	margin-left: 10px;
+}
+
+.knopka {
+	background: #4A4F56;
+	width: 800px;
+	height: 70px;
+	margin-left: 22%;
+	margin-top: 25px;
+	overflow: hidden;
+}
+
+.knopka p {
+	text-align: center;
+	color: #E57E7F;
+}
+
+.header h1 {
+	
+}
+
+.header p {
+	
+}
